@@ -1,4 +1,2 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Christoph Niehoff](mailto:christoph.niehoff@tngtech.com)
