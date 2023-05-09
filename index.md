@@ -53,9 +53,9 @@ Both card games are great tools to help development teams increase the security 
 However, we felt the need for a threat modeling card game targeting devOps/cloud projects in particular.
 Out of this idea, Cumulus arose.
 
-Cumulus was started at and it heavily supported by [TNG Technology Consulting](https://www.tngtech.com/en/index.html).
+[![TNG Technology Consulting](assets/images/TNG_Logo.svg)](https://www.tngtech.com/en/index.html)
 
-![TNG Technology Consulting](assets/images/TNG_Logo.svg)
+Cumulus was started at and it heavily supported by [TNG Technology Consulting](https://www.tngtech.com/en/index.html).
   
 ## Versioning 
 The card deck follows [semantic versioning](https://semver.org/).
