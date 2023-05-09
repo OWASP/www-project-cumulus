@@ -1,6 +1,6 @@
 ---
 title: Rules
-displaytext: How to Play
+displaytext: Rules
 layout:  null
 tab: true
 order: 1
