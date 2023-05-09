@@ -30,11 +30,14 @@ While the original game approaches security in general and another variant, Corn
 Cumulus seeks to fill this gap and provides a custom card deck with threats to cloud systems.
 
 Threats are classified into the categories (which are also the suits in this game):
-* Access & Secrets
-* Delivery
-* Recovery
-* Monitoring
-* Resources
+
+|   |   |
+|---|---|
+| Access & Secrets | Threats related to secrets management and IAM |
+| Delivery | Threats when building and deploying software, and on its supply chain |
+| Recovery | Threats related to backup and restore |
+| Monitoring | Threats in the context of logs, alerts and traceability |
+| Resources | Threats on resources and their configuration |
 
 This game does explicitly **not** try to replace Elevation of Privilege or Cornucopia.
 It should rather be seen as part of a triplet of threat modeling card decks, reflecting different aspects of modern software development projects.
@@ -49,14 +52,10 @@ Both card games are great tools to help development teams increase the security 
 
 However, we felt the need for a threat modeling card game targeting devOps/cloud projects in particular.
 Out of this idea, Cumulus arose.
-  
-## Online Version
-There exists an [online version](https://github.com/tng/elevation-of-privilege) of this card game (and also Elevation of Privilege and Cornucopia) for remote or geographically distributed teams.
-This can easily be self-hosted.
 
-You can find it under: 
-  
-[https://github.com/tng/elevation-of-privilege](https://github.com/tng/elevation-of-privilege) 
+Cumulus was started at and it heavily supported by [TNG Technology Consulting](https://www.tngtech.com/en/index.html).
+
+![TNG Technology Consulting](assets/images/TNG_Logo.svg)
   
  ## Versioning 
 The card deck follows [semantic versioning](https://semver.org/).
