@@ -31,7 +31,7 @@ Cumulus seeks to fill this gap and provides a custom card deck with threats to c
 
 Threats are classified into the categories (which are also the suits in this game):
 
-|   |   |
+| Category  |   |
 |---|---|
 | Access & Secrets | Threats related to secrets management and IAM |
 | Delivery | Threats when building and deploying software, and on its supply chain |
