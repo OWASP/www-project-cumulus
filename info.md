@@ -1,5 +1,13 @@
 ### Cumulus Information
+
+* <i class="fas fa-flask" style="font-size: 1.3em; color:#f7b73c;"></i> <span>Lab Project</span>
+
+#### Classification
+
 * <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Documentation</span>
+
+#### Audience
+
 * <i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span> 
 * <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
 
@@ -7,10 +15,10 @@
 * [Download](https://github.com/OWASP/cumulus/releases/latest)
 
 ### Code Repository
-* [repo](https://github.com/OWASP/cumulus)
+* [GitHub](https://github.com/OWASP/cumulus)
 
 ### Change Log
-* [changes](https://github.com/OWASP/cumulus/releases)
+* [Changes](https://github.com/OWASP/cumulus/releases)
 
 ### License
 
