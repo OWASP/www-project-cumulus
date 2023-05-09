@@ -57,7 +57,7 @@ Cumulus was started at and it heavily supported by [TNG Technology Consulting](h
 
 ![TNG Technology Consulting](assets/images/TNG_Logo.svg)
   
- ## Versioning 
+## Versioning 
 The card deck follows [semantic versioning](https://semver.org/).
 Version changes mean: 
 
