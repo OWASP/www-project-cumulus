@@ -1,5 +1,5 @@
 ---
-title: Online Version
+title: Online
 displaytext: Online Version
 layout:  null
 tab: true
