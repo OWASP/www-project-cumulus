@@ -66,7 +66,6 @@ Version changes mean:
 - *major version*: Substantial semantic changes: new categories, ...
   
 ## Licensing 
-The card game (including the threat formulations and the released PDF files are distributed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+The card game (including the threat formulations and the released PDF) files are distributed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 When distributing this game, mentioning [TNG Technology Consulting](https://www.tngtech.com/en/index.html) is highly appreciated.
 
-All utils files (shell scripts, LaTeX code for layouting) are distributed under [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0).
