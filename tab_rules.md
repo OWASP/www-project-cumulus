@@ -1,9 +1,10 @@
 ---
 title: Rules
+displaytext: How to Play
 layout:  null
 tab: true
 order: 1
-tags: rules-tag
+tags: cumulus
 ---
 
 ## Rules of the game

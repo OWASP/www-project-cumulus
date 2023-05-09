@@ -2,9 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Cumulus
-tags: example-tag
+tags: cumulus
 level: 2
-type: 
+type: documentation
 pitch: Cumulus. Threat Modeling the Clouds.
 
 ---
