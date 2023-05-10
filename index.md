@@ -9,7 +9,7 @@ pitch: Cumulus. Threat Modeling the Clouds.
 
 ---
 
-# *Threat modeling the clouds*[<img style="height:50px;cursor:pointer;float:right" src="assets/images/download.svg"/>](https://github.com/OWASP/cumulus/releases/latest)
+# *Threat modeling the clouds* <a style="float:right" href="https://github.com/OWASP/cumulus/releases/latest" class="cta-button green">Download</a>
 
 ![Cumulus Cards](assets/images/cards.svg)
 
