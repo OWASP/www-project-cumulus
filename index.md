@@ -1,5 +1,4 @@
 ---
-
 layout: col-sidebar
 title: OWASP Cumulus
 tags: cumulus
@@ -8,8 +7,9 @@ type: documentation
 pitch: Cumulus. Threat Modeling the Clouds.
 
 ---
+<a style="float:right" href="https://github.com/OWASP/cumulus/releases/latest" class="cta-button green">&#10515; Download</a>
 
-# *Threat modeling the clouds* <a style="float:right" href="https://github.com/OWASP/cumulus/releases/latest" class="cta-button green">Download</a>
+# *Threat modeling the clouds* 
 
 ![Cumulus Cards](assets/images/cards.svg)
 
