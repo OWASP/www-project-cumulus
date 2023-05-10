@@ -24,3 +24,7 @@
 
 * [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 
+### Supporters
+
+* [![TNG Technology Consulting](assets/images/TNG_Logo.svg)](https://www.tngtech.com/en/index.html)
+
