@@ -33,10 +33,10 @@ Threats are classified into the categories (which are also the suits in this gam
 
 | Category  |   |
 |---|---|
-| Access & Secrets | Threats related to secrets management and IAM |
-| Delivery | Threats when building and deploying software, and on its supply chain |
-| Recovery | Threats related to backup and restore |
-| Monitoring | Threats in the context of logs, alerts and traceability |
+| Access & Secrets | Threats related to IAM and secrets management |
+| Delivery | Build and ship software, and its supply chain |
+| Recovery | Backup and restore |
+| Monitoring | Logs, alerts and traceability |
 | Resources | Threats on resources and their configuration |
 
 This game does explicitly **not** try to replace Elevation of Privilege or Cornucopia.
