@@ -32,3 +32,5 @@ Each time a new card is played, all players are asked to think about whether tha
 If a threat is found (and the team agrees that this is a topic to look at), it is written down and the finder receives an extra point.
 
 As Cumulus shares the same rules as Elevation of Privilege and Cornucopia, you can find alternative explanations of the rules [here](https://owasp.org/www-project-cornucopia/) or [here, chapter 2](http://download.microsoft.com/download/F/A/E/FAE1434F-6D22-4581-9804-8B60C04354E4/EoP_Whitepaper.pdf)
+
+Also, Cornucopia has a wonderful explanation of the rules as a [Video on YouTube](https://www.youtube.com/watch?app=desktop&v=XXTPXozIHow&ab_channel=OWASPFoundation).
