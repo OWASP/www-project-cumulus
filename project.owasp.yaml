@@ -20,7 +20,8 @@ repositories:
     description: Cumulus. Threat modeling the Clouds.
 tags:
   - cumulus
-  - custom-tag-1
-  - custom-tag-2
+  - threat-modeling
+  - secure-by-design
+  - gamification
 type: documentation
 website: https://owasp.org/www-project-cumulus
