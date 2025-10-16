@@ -1,0 +1,27 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Christoph Niehoff
+    email: christoph.niehoff@owasp.org
+    github: ChristophNiehoff
+  - name: Benjamin Goose
+    email: benjamin.goose@owasp.org
+    github: gansb
+level: 2
+name: OWASP Cumulus
+pitch: Cumulus. Threat Modeling the Clouds.
+repositories:
+  - name: www-project-cumulus
+    url: https://github.com/OWASP/www-project-cumulus
+    description: OWASP Foundation Web Repository
+  - name: cumulus
+    url: https://github.com/OWASP/cumulus
+    description: Cumulus. Threat modeling the Clouds.
+tags:
+  - cumulus
+  - threat-modeling
+  - secure-by-design
+  - gamification
+type: documentation
+website: https://owasp.org/www-project-cumulus
