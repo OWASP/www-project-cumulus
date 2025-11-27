@@ -9,6 +9,7 @@ tags: cumulus
 
 ## Cumulus in Media
 
+* 2025-11-27: Cumulus was presented at the German OWASP Day 2025 in Düsseldorf. [Recording (en)](https://media.ccc.de/v/god2025-56482-owasp-cumulus-threat-model)
 * 2025-06-26: [Blogpost about Cumulus](https://dev.to/owasp/no-need-to-fear-the-clouds-play-owasp-cumulus-d6g) written by [Johan Sydseter](https://github.com/sydseter) from OWASP Cornucopia.
 * 2025-05-29: Cumulus was presented at the OWASP Global AppSec Conference in Barcelona: [Slides](assets/pdf/20250529_OWASPGlobalAppSec_Cumulus.pdf)
 * 2025-05-20: [Threat Modeling Connect Spieleabend](https://lu.ma/njsexjws): [Slides](assets/pdf/20250520_TMC-DACH.pdf) *(in German)*
